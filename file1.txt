@@ -1,0 +1,2 @@
+this is an  example of diff command
+this is a KBCNMU repository
